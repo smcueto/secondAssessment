@@ -1,0 +1,31 @@
+/*/Users/smcueto/documents/secondAssessment/static/styles.css */
+.container{
+  background: purple;
+  border-style: solid;
+}
+.col-xs-12, col-md-6, col-lg-4 {
+  background: red;
+}
+.col-xs-12, col-md-6, col-lg-8 {
+  background: yellow;
+  border-style: solid;
+}
+.nav, nav-pills, nav-stacked, flex-column{
+  background-color: red;
+}
+.nav-item{
+  border-style: solid;
+}
+#main-picture{
+  border-radius: 50%;
+}
+#card-box{
+  text-align: center;
+  background: orange;
+}
+#main-about{
+  text-align: center;
+}
+#whole-body{
+  font-family: 'Roboto', sans-serif;
+}
